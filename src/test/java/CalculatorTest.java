@@ -19,7 +19,7 @@ public class CalculatorTest {
     @Test
     public void test_add_negative(){
         int a = 1;
-        int b = 2;
+        int b = 3;
         int expectedResult = 0;
         Assert.assertNotEquals(expectedResult, calculator.add(a, b));
     }

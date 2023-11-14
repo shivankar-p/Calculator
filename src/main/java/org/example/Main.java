@@ -34,6 +34,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the first operand: ");
+
         double operand1 = scanner.nextDouble();
 
         System.out.print("Enter the second operand: ");

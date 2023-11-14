@@ -38,6 +38,7 @@ public class Main {
         double operand1 = scanner.nextDouble();
 
         System.out.print("Enter the second operand: ");
+
         double operand2 = scanner.nextDouble();
 
         System.out.println("Select operation: ");
